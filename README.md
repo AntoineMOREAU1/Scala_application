@@ -12,7 +12,6 @@ Simulateur de jeu de black jack en langage Scala.
 
 
 ## Aperçu
-
 ![img](https://github.com/AntoineMOREAU1/Scala_application/blob/master/img_test/img_1.png)
 
 
